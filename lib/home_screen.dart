@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "icon": Icons.event,
       "title": "Tech Talk: AI & Future",
       "description": "Join the AI talk this Friday at 2 PM.",
-      "color": Colors.blue
+      "color": const Color.fromARGB(255, 99, 210, 91)
     },
     {
       "icon": Icons.school,
