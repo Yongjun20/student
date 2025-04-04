@@ -1,4 +1,5 @@
-# student
+# edu
+
 
 A new Flutter project.
 
